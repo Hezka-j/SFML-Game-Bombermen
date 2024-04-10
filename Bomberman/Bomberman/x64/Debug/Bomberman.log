@@ -1,0 +1,23 @@
+﻿  Bomberman.cpp
+D:\Проекты\Bomberman\Map.h(68,57): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "Bomberman.cpp")
+  
+D:\Проекты\Bomberman\Map.h(68,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "Bomberman.cpp")
+  
+D:\Проекты\Bomberman\Game.h(17,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "Bomberman.cpp")
+  
+D:\Проекты\Bomberman\Game.h(137,20): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+  (компиляция исходного файла "Bomberman.cpp")
+  
+D:\Проекты\Bomberman\Game.h(142,79): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Bomberman.cpp")
+  
+D:\Проекты\Bomberman\Game.h(183,74): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Bomberman.cpp")
+  
+D:\Проекты\Bomberman\Game.h(183,59): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Bomberman.cpp")
+  
+  Bomberman.vcxproj -> D:\Проекты\Bomberman\x64\Debug\Bomberman.exe
